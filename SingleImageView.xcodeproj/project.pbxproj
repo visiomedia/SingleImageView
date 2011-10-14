@@ -23,15 +23,15 @@
 		014E1BA71448FD3D00EA88A3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		014E1BA91448FD3D00EA88A3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		014E1BAB1448FD3D00EA88A3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		014E1BAF1448FD3D00EA88A3 /* SingleImageView-Info.plist */ = {isa = PBXFileReference; path = "SingleImageView-Info.plist"; sourceTree = "<group>"; };
+		014E1BAF1448FD3D00EA88A3 /* SingleImageView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SingleImageView-Info.plist"; sourceTree = "<group>"; };
 		014E1BB11448FD3D00EA88A3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		014E1BB31448FD3D00EA88A3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		014E1BB51448FD3D00EA88A3 /* SingleImageView-Prefix.pch */ = {isa = PBXFileReference; path = "SingleImageView-Prefix.pch"; sourceTree = "<group>"; };
-		014E1BB61448FD3D00EA88A3 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		014E1BB51448FD3D00EA88A3 /* SingleImageView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SingleImageView-Prefix.pch"; sourceTree = "<group>"; };
+		014E1BB61448FD3D00EA88A3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		014E1BB71448FD3D00EA88A3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		014E1BBA1448FD3D00EA88A3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		014E1BBD1448FD3D00EA88A3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		014E1BBF1448FD3D00EA88A3 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		014E1BBF1448FD3D00EA88A3 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		014E1BC01448FD3D00EA88A3 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
